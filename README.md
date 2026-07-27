@@ -93,8 +93,3 @@ Being upfront about what this is and isn't:
 
 Electron · Chromium (via Electron's `<webview>`) · [`@ghostery/adblocker-electron`](https://github.com/ghostery/adblocker)
 · EasyList / EasyPrivacy / uBlock Origin filter lists · Electron's `safeStorage` for credential encryption
-
-## License
-
-MIT — see [`LICENSE.txt`](./LICENSE.txt). Third-party components (Electron, the adblocker library, the
-filter lists fetched at runtime) remain under their own respective licenses.
