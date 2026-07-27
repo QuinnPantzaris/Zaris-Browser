@@ -57,7 +57,7 @@ Checksums for the current release are in the [release notes](../../releases/late
 Requires [Node.js](https://nodejs.org).
 
 ```bash
-git clone https://github.com/<your-username>/zaris.git
+git clone https://github.com/QuinnPantzaris/zaris.git
 cd zaris
 npm install
 npm start          # run it live
