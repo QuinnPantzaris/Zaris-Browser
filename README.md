@@ -1,3 +1,5 @@
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/4a175a3b-8deb-48f0-9f29-da6571147394" />
+
 <div align="center">
 
 # Zaris
